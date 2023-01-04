@@ -1,16 +1,21 @@
 # WELCOME TO HYUNSANG's GITHUB!! :stuck_out_tongue_closed_eyes:
 
+## :bowtie: WHO AM I?
+
 - JOB : WEB-DEVELOPER | BACKEND
 
 - My Favorites
-  - MOVIES : FORREST GUMP
-  - BOOK : FACTFULNESS
-  - MUSIC : OHAYO MY NIGHT
+  - MOVIES : <a href="https://www.rottentomatoes.com/m/forrest_gump">FORREST GUMP</a>
+  - BOOK : <a href="https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814">FACTFULNESS</a>
+  - MUSIC : <a href="https://www.youtube.com/watch?v=KCpWMEsiN3Q">OHAYO MY NIGHT</a>
   - EXERCISE : BADMINTON
   
 - 2023 GOAL 
   - READ and RECORD 30 BOOKS
   - LOSE ADDITIONAL 10kgs
+
+- My Page
+  - <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/> : <a href="https://velog.io/@mathe1303">MUKBO</a>
 
 ## 💪Skills
 ### Languages
@@ -40,6 +45,8 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=Insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitBook-3884FF?style=flat&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-0052CC?style=flat&logo=Notion&logoColor=white"/>
 </div>
 
 ## :chart_with_upwards_trend: GITHUB STATS 
