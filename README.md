@@ -49,5 +49,6 @@
 <img src="https://img.shields.io/badge/Notion-0052CC?style=flat&logo=Notion&logoColor=white"/>
 </div>
 
-## :chart_with_upwards_trend: GITHUB STATS 
+## :chart_with_upwards_trend: GITHUB STATS
 ![HYUNSANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheGoD&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheGoD&layout=compact)
