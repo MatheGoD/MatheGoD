@@ -50,5 +50,6 @@
 </div>
 
 ## :chart_with_upwards_trend: GITHUB STATS
-![HYUNSANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheGoD&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheGoD&layout=compact)
+![Most Used Lang](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheGoD&show_icons=true&theme=radical)
+
+
