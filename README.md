@@ -8,11 +8,12 @@
   - MOVIES : <a href="https://www.rottentomatoes.com/m/forrest_gump">FORREST GUMP</a>
   - BOOK : <a href="https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814">FACTFULNESS</a>
   - MUSIC : <a href="https://www.youtube.com/watch?v=KCpWMEsiN3Q">OHAYO MY NIGHT</a>
-  - EXERCISE : BADMINTON
+  - EXERCISE : BADMINTON, Hiking
   
-- 2023 GOAL 
+- 2024 GOAL 
   - READ and RECORD 30 BOOKS
   - LOSE ADDITIONAL 10kgs
+  - Hike 30 Mountains among BLACKYAK TOP 100 Mountains
 
 - My Page
   - <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/> : <a href="https://velog.io/@mathe1303">MUKBO</a>
