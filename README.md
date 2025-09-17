@@ -10,11 +10,6 @@
   - MUSIC : <a href="https://www.youtube.com/watch?v=KCpWMEsiN3Q">OHAYO MY NIGHT</a>
   - EXERCISE : BADMINTON, Hiking
   
-- 2024 GOAL 
-  - READ and RECORD 30 BOOKS
-  - LOSE ADDITIONAL 10kgs
-  - Hike 30 Mountains among BLACKYAK TOP 100 Mountains
-
 - My Page
   - <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/> : <a href="https://velog.io/@mathe1303">MUKBO</a>
 
